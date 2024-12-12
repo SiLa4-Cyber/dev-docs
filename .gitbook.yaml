@@ -3,3 +3,4 @@ root: ./
 redirects:
   platform-docs/api: api/api.md
   platform-docs/int: int/int.md
+  platform-docs/test: README.md
